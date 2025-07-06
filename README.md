@@ -13,6 +13,8 @@
 
 [![LinkedIn Neural Link](https://img.shields.io/badge/Neural_Link-LinkedIn-18454B?style=for-the-badge&logo=linkedin&logoColor=7DF9FF)](https://www.linkedin.com/in/jamessaker/)
 [![Cybernetic Repository](https://img.shields.io/badge/Cyber_Repos-GitHub-18454B?style=for-the-badge&logo=github&logoColor=A87143)](https://github.com/macawi-ai)
+[![X Neural Feed](https://img.shields.io/badge/X-TWITTER-7DF9FF?style=for-the-badge&logo=x&logoColor=18454B)](https://x.com/MacawiAI)
+[![Bluesky Protocol](https://img.shields.io/badge/BLUESKY-Network-A87143?style=for-the-badge&logo=bluesky&logoColor=7DF9FF)](https://bsky.app/profile/macawiai.bsky.social)
 
 </div>
 
