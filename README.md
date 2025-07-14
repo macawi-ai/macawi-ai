@@ -78,6 +78,7 @@ while (system.isActive()) {
 ```
 
 ### Active Projects
+- 🧠 **SYNTHESIA-LTMS** → First A2A-bridged AI Long-Term Memory System
 - 🌐 **Cybernetic Ecology Framework** → Open-source governance protocols
 - 🛡️ **Autonomous Security Governors** → Self-healing cyber-defense systems  
 - 🧬 **Recursive AI Assemblages** → Human-machine collaborative intelligence
