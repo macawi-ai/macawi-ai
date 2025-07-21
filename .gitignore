@@ -1,0 +1,61 @@
+# macawi-ai/.gitignore
+
+# Build artifacts
+/target/
+/build/
+/dist/
+*.o
+*.so
+*.dylib
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# External Dependencies Management
+# Submodules are tracked by git
+!/external/
+
+# References are documentation only
+!/references/
+
+# Vendor directory for frozen dependencies
+!/vendor/
+/vendor/*
+!/vendor/critical/
+!/vendor/critical/README.md
+
+# Temporary
+*.tmp
+*.temp
+/tmp/
+
+# Security
+*.key
+*.pem
+*.cert
+*.crt
+secrets/

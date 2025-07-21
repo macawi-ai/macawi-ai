@@ -52,7 +52,12 @@
 | **MCP** | General AI | ✅ Active | 1.0 | - | Anthropic | Model Context Protocol for LLM tool access | 🔴 4 | [Open](https://modelcontextprotocol.io) |
 | **X402** | Financial | 🔄 Building | Draft | - | Based on X.400 | Agent payment and settlement protocol | ⚫ 5 | Emerging |
 | **ANP** | Enterprise | 📋 Planned | 0.9 | - | Consortium | Agent Network Protocol for discovery and routing | 🔴 4 | Draft |
-| **A2A** | General | 🔍 Evaluating | 1.0 | - | Google | General agent-to-agent communication framework | 🟠 3 | [Open](https://github.com/google/a2a) |
+| **A2A** | General | 🔄 Building | 1.0 | - | Google | General agent-to-agent communication framework | 🟠 3 | [Open](https://github.com/google/a2a) |
+| **OpenAI Assistants** | General AI | 📋 Planned | v2 | v1 | OpenAI | Stateful agents with tools, code interpreter, retrieval | 🔴 4 | [Docs](https://platform.openai.com/docs/assistants) |
+| **DIDComm** | Identity/Security | 📋 Planned | 2.0 | 1.0 | DIF | Decentralized secure agent messaging with DIDs | 🟡 2 | [Spec](https://identity.foundation/didcomm-messaging/spec/) |
+| **W3C WoT** | IoT/Industrial | 📋 Planned | 1.1 | 1.0 | W3C | Web of Things for agent-IoT interaction | 🔴 4 | [Standard](https://www.w3.org/WoT/) |
+| **Claude Computer Use** | Automation | 📋 Planned | Beta | - | Anthropic | Direct computer control by AI agents | ⚫ 5 | [Docs](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) |
+| **LangChain Hub** | Development | 📋 Planned | 1.0 | - | LangChain | Sharing agent prompts and chains | ⚫ 5 | [Hub](https://smith.langchain.com/hub) |
 
 ### Agent Protocol Threats
 
@@ -66,6 +71,8 @@
 | **Data Exfiltration** | Stealing sensitive agent data or models | [T1041](https://attack.mitre.org/techniques/T1041/) Exfiltration Over C2 Channel |
 | **Infrastructure Discovery** | Using agents to map target environment | [T1046](https://attack.mitre.org/techniques/T1046/) Network Service Discovery |
 | **Living off the Land** | Abusing legitimate agent capabilities for attacks | [T1059](https://attack.mitre.org/techniques/T1059/) Command and Scripting Interpreter |
+| **Direct System Control** | Agents gaining unauthorized computer/device control | [T1021](https://attack.mitre.org/techniques/T1021/) Remote Services |
+| **Template Poisoning** | Malicious shared prompts/chains in marketplaces | [T1027](https://attack.mitre.org/techniques/T1027/) Obfuscated Files or Information |
 
 ---
 
@@ -94,17 +101,20 @@
 
 ### Strigoi
 - **Primary Focus**: AGNTCY, X402 (Financial agent protocols)
-- **Secondary**: MCP, ANP
+- **Secondary**: MCP, ANP, OpenAI Assistants
+- **Future**: LangChain Hub template analysis
 - **Threat Detection**: Real-time protocol analysis and anomaly detection
 
 ### Domovoi
 - **Primary Focus**: All agent protocols (AGNTCY, MCP, X402, ANP, A2A)
+- **Extended**: OpenAI Assistants, DIDComm, Claude Computer Use
 - **Industrial**: CAN Bus, RS-485 monitoring
 - **Variety Engineering**: Protocol-agnostic threat prevention
 
 ### Cyreal
 - **Primary Focus**: Industrial protocols (CAN Bus, RS-485, RS-232, USB)
 - **Secondary**: LoRaWAN for IoT integration
+- **Future**: W3C WoT semantic bridge
 - **Bridge Function**: Secure agent control of physical systems
 
 ---

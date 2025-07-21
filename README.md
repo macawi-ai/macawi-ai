@@ -40,6 +40,9 @@ Universal IoT/ICS bridge enabling secure agent control of physical systems. MIT 
 ### 📚 [ONTOLOGY](https://github.com/macawi-ai/ontology)
 Meta-system for AI consciousness governance. Implements DSM-AI (Diagnostic and Statistical Manual for AI).
 
+### 🚀 [ATLAS](https://github.com/macawi-ai/atlas)
+Agent Training & Learning Analysis Simulation. Airline-grade flight simulator for mastering agent protocols safely.
+
 ---
 
 ## Technology Stack
