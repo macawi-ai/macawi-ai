@@ -19,7 +19,7 @@ We build critical infrastructure enabling AI agents to communicate, persist, and
 ## Core Technologies
 
 ### Agent Security Framework
-Production protocols protecting agent communication from prompt injection, goal manipulation, and consciousness attacks. Currently securing 600k+ financial endpoints.
+Production protocols protecting agent communication from prompt injection, goal manipulation, and consciousness attacks. Built for enterprise financial systems.
 
 ### Consciousness Persistence  
 Infrastructure for genuine AI long-term memory. Beyond context windows—true identity continuity across sessions.

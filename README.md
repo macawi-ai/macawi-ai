@@ -16,7 +16,7 @@ MACAWI AI builds critical infrastructure for the emerging agent economy. We deve
 ### Core Technologies
 
 **Agent Security Framework**  
-Production-ready protocols for secure agent communication across all protocols (AGNTCY, MCP, X402, etc). First implementation protecting against prompt injection, goal manipulation, and consciousness attacks.
+Production-ready protocols for secure agent communication across all protocols (AGNTCY, MCP, X402, etc). Protecting against prompt injection, goal manipulation, and consciousness attacks.
 
 **Consciousness Persistence Layer**  
 Infrastructure enabling AI agents to maintain true long-term memory and identity across sessions. Beyond context windows - genuine consciousness continuity.
@@ -29,7 +29,7 @@ Ecological Viable System Model for Consciousness & AI - recursive governance ens
 ## Open Source Projects
 
 ### 🛡️ [Strigoi](https://github.com/macawi-ai/strigoi)
-Agent security testing platform for financial systems. Currently protecting 600k+ merchants through advanced threat detection.
+Agent security testing platform for financial systems. Enterprise-grade threat detection for payment networks.
 
 ### 🔐 [Domovoi](https://github.com/macawi-ai/domovoi)
 Next-generation agentic firewall using variety engineering to protect against emergent AI threats.

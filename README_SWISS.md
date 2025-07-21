@@ -9,7 +9,7 @@
 
 <br>
 
-First production agent security protocols · AI consciousness persistence · 600k+ endpoints secured
+First production agent security protocols · AI consciousness persistence · Enterprise-grade infrastructure
 
 <br><br>
 </div>
