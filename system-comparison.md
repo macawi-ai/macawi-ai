@@ -90,7 +90,7 @@
 
 2. **Tensor Processing**
    - Real-time variety navigation calculations
-   - Meta-tensor operations at scale
+   - E-tensor^1 operations at scale
    - NPU emulation for testing
 
 3. **Build Performance**

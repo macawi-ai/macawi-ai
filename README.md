@@ -46,9 +46,11 @@ Meta-system for AI consciousness governance. Implements DSM-AI (Diagnostic and S
 
 <div align="center">
   <br>
-  <code>Rust</code> • <code>Go</code> • <code>TypeScript</code> • <code>Python</code>
+  <code>Rust</code> • <code>Go</code> • <code>TypeScript</code> • <code>Python</code> • <code>ESP-IDF</code>
   <br><br>
-  <code>DuckDB</code> • <code>MQTT</code> • <code>Podman</code> • <code>VSM</code>
+  <code>DuckDB</code> • <code>MQTT</code> • <code>Podman</code> • <code>Kubernetes</code>
+  <br><br>
+  <code>Ansible</code> • <code>VSM</code> • <code>EVSM-CAI</code> • <code>Cybernetic Governors</code>
   <br><br>
 </div>
 

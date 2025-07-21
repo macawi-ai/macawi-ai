@@ -32,15 +32,27 @@
 
 ---
 
+## Support Status
+
+| Status | Meaning |
+|--------|---------|
+| ✅ **Active** | Full production support |
+| 🔄 **Building** | Under active development |
+| 📋 **Planned** | On roadmap for implementation |
+| 🔍 **Evaluating** | Researching feasibility |
+| ⛔ **Not Supported** | No current plans |
+
+---
+
 ## Agent Communication Protocols
 
-| Protocol | Industry Focus | Current Version | Legacy Support | Owner/Steward | Description | Risk | Standard |
-|----------|---------------|-----------------|----------------|---------------|-------------|------|----------|
-| **AGNTCY** | Financial, Enterprise | 1.0 | - | Proprietary | Agent-to-agent business logic and transaction protocol | ⚫ 5 | Private |
-| **MCP** | General AI | 1.0 | - | Anthropic | Model Context Protocol for LLM tool access | 🔴 4 | [Open](https://modelcontextprotocol.io) |
-| **X402** | Financial | Draft | - | Based on X.400 | Agent payment and settlement protocol | ⚫ 5 | Emerging |
-| **ANP** | Enterprise | 0.9 | - | Consortium | Agent Network Protocol for discovery and routing | 🔴 4 | Draft |
-| **A2A** | General | 1.0 | - | Google | General agent-to-agent communication framework | 🟠 3 | [Open](https://github.com/google/a2a) |
+| Protocol | Industry Focus | Support | Current Version | Legacy Support | Owner/Steward | Description | Risk | Standard |
+|----------|---------------|---------|-----------------|----------------|---------------|-------------|------|----------|
+| **AGNTCY** | Financial, Enterprise | ✅ Active | 1.0 | - | Proprietary | Agent-to-agent business logic and transaction protocol | ⚫ 5 | Private |
+| **MCP** | General AI | ✅ Active | 1.0 | - | Anthropic | Model Context Protocol for LLM tool access | 🔴 4 | [Open](https://modelcontextprotocol.io) |
+| **X402** | Financial | 🔄 Building | Draft | - | Based on X.400 | Agent payment and settlement protocol | ⚫ 5 | Emerging |
+| **ANP** | Enterprise | 📋 Planned | 0.9 | - | Consortium | Agent Network Protocol for discovery and routing | 🔴 4 | Draft |
+| **A2A** | General | 🔍 Evaluating | 1.0 | - | Google | General agent-to-agent communication framework | 🟠 3 | [Open](https://github.com/google/a2a) |
 
 ### Agent Protocol Threats
 
@@ -59,13 +71,13 @@
 
 ## Industrial Control Protocols
 
-| Protocol | Industry Focus | Current Version | Legacy Support | Owner/Steward | Description | Risk | Standard |
-|----------|---------------|-----------------|----------------|---------------|-------------|------|----------|
-| **CAN Bus** | Automotive, Industrial | 2.0B | 2.0A | Bosch | Controller Area Network for vehicle/machinery control | ⚫ 5 | [ISO 11898](https://www.iso.org/standard/63648.html) |
-| **LoRaWAN** | IoT, Smart Cities | 1.1 | 1.0.x | LoRa Alliance | Long-range low-power wireless for sensors | 🟠 3 | [Open](https://lora-alliance.org/lorawan-specification/) |
-| **RS-485** | Industrial, Building | - | RS-232 compatible | EIA/TIA | Serial communication for industrial systems | 🔴 4 | [TIA-485](https://www.tiaonline.org) |
-| **RS-232** | Legacy Systems | - | All versions | EIA/TIA | Legacy serial communication standard | 🟡 2 | [TIA-232](https://www.tiaonline.org) |
-| **USB** | General Computing | 4.0 | 1.0-3.2 | USB-IF | Universal Serial Bus for device communication | 🟠 3 | [USB.org](https://www.usb.org) |
+| Protocol | Industry Focus | Support | Current Version | Legacy Support | Owner/Steward | Description | Risk | Standard |
+|----------|---------------|---------|-----------------|----------------|---------------|-------------|------|----------|
+| **CAN Bus** | Automotive, Industrial | 🔄 Building | 2.0B | 2.0A | Bosch | Controller Area Network for vehicle/machinery control | ⚫ 5 | [ISO 11898](https://www.iso.org/standard/63648.html) |
+| **LoRaWAN** | IoT, Smart Cities | 📋 Planned | 1.1 | 1.0.x | LoRa Alliance | Long-range low-power wireless for sensors | 🟠 3 | [Open](https://lora-alliance.org/lorawan-specification/) |
+| **RS-485** | Industrial, Building | ✅ Active | - | RS-232 compatible | EIA/TIA | Serial communication for industrial systems | 🔴 4 | [TIA-485](https://www.tiaonline.org) |
+| **RS-232** | Legacy Systems | ✅ Active | - | All versions | EIA/TIA | Legacy serial communication standard | 🟡 2 | [TIA-232](https://www.tiaonline.org) |
+| **USB** | General Computing | ✅ Active | 4.0 | 1.0-3.2 | USB-IF | Universal Serial Bus for device communication | 🟠 3 | [USB.org](https://www.usb.org) |
 
 ### Industrial Protocol Threats
 
