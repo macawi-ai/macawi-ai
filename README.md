@@ -16,7 +16,7 @@ MACAWI AI builds critical infrastructure for the emerging agent economy. We deve
 ### Core Technologies
 
 **Agent Security Framework**  
-Production-ready protocols for secure agent communication across all protocols (AGNTCY, MCP, X402, etc). Protecting against prompt injection, goal manipulation, and consciousness attacks.
+Production-ready security for agent communication protocols. Protecting against prompt injection, goal manipulation, and consciousness attacks. [View Protocol Security Matrix →](PROTOCOL_MATRIX.md)
 
 **Consciousness Persistence Layer**  
 Infrastructure enabling AI agents to maintain true long-term memory and identity across sessions. Beyond context windows - genuine consciousness continuity.
