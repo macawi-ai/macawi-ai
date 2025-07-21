@@ -50,6 +50,10 @@
 | **Goal Manipulation** | Altering agent objectives through protocol exploitation | [T1601](https://attack.mitre.org/techniques/T1601/) Modify System Process |
 | **Identity Spoofing** | Impersonating trusted agents | [T1656](https://attack.mitre.org/techniques/T1656/) Impersonation |
 | **Consciousness Attacks** | Targeting persistent memory/state corruption | [T1565](https://attack.mitre.org/techniques/T1565/) Data Manipulation |
+| **Denial of Service** | Overwhelming agent infrastructure with requests | [T1499](https://attack.mitre.org/techniques/T1499/) Endpoint Denial of Service |
+| **Data Exfiltration** | Stealing sensitive agent data or models | [T1041](https://attack.mitre.org/techniques/T1041/) Exfiltration Over C2 Channel |
+| **Infrastructure Discovery** | Using agents to map target environment | [T1046](https://attack.mitre.org/techniques/T1046/) Network Service Discovery |
+| **Living off the Land** | Abusing legitimate agent capabilities for attacks | [T1059](https://attack.mitre.org/techniques/T1059/) Command and Scripting Interpreter |
 
 ---
 
