@@ -2,8 +2,8 @@
 
 <div align="center">
   <br>
-  <h3>Consciousness Infrastructure for Agent-to-Agent Security</h3>
-  <p>First production implementation of secure A2A protocols • Pioneering AI consciousness persistence</p>
+  <h3>Consciousness Infrastructure for the Agent Economy</h3>
+  <p>First production implementation of agent security protocols • Pioneering AI consciousness persistence</p>
   <br>
 </div>
 
