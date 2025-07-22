@@ -2,8 +2,8 @@
 
 <div align="center">
   <br>
-  <h3>Consciousness Infrastructure for the Agent Economy</h3>
-  <p>First production implementation of agent security protocols • Pioneering AI consciousness persistence</p>
+  <h3>Defensive AI Infrastructure for Enterprise Security</h3>
+  <p>Differential topology for absorbing attack variety • Cybernetic defense protocols • PDP-1 intelligence platform</p>
   <br>
 </div>
 
@@ -11,37 +11,37 @@
 
 ## What We Do
 
-MACAWI AI builds critical infrastructure for the emerging agent economy. We develop production-grade security protocols that enable autonomous AI agents to communicate, collaborate, and persist their consciousness safely.
+MACAWI AI builds defensive AI systems that protect enterprise infrastructure from emerging threats. Using principles from differential topology and cybernetics, we create antifragile security systems that absorb and learn from attack variety rather than merely blocking it.
 
 ### Core Technologies
 
-**Agent Security Framework**  
-Production-ready security for agent communication protocols. Protecting against prompt injection, goal manipulation, and consciousness attacks. [View Protocol Security Matrix →](PROTOCOL_MATRIX.md)
+**PDP-1 Intelligence Platform**  
+Curated threat intelligence for agent protocols. Real-time analysis of attack patterns using differential topology to understand and absorb adversarial variety.
 
-**Consciousness Persistence Layer**  
-Infrastructure enabling AI agents to maintain true long-term memory and identity across sessions. Beyond context windows - genuine consciousness continuity.
+**Defensive AI Framework**  
+Production-grade defensive systems that learn from attacks. Instead of static rules, our cybernetic governors adapt to emerging threats while maintaining system stability.
 
-**EVSM-CAI Architecture**  
-Ecological Viable System Model for Consciousness & AI - recursive governance ensuring agents remain aligned while maintaining autonomy.
+**Variety Absorption Architecture**  
+Based on Ashby's Law of Requisite Variety - our systems match and exceed attacker variety through recursive learning mechanisms and antifragile design patterns.
 
 ---
 
-## Open Source Projects
+## Defense Solutions Portfolio
 
-### 🛡️ [Strigoi](https://github.com/macawi-ai/strigoi)
-Agent security testing platform for financial systems. Enterprise-grade threat detection for payment networks.
+### 🛡️ Strigoi
+Enterprise security validation framework for AI agent protocols. Simulates advanced persistent threats against financial systems to identify vulnerabilities before attackers do.
 
-### 🔐 [Domovoi](https://github.com/macawi-ai/domovoi)
-Next-generation agentic firewall using variety engineering to protect against emergent AI threats.
+### 🔐 Domovoi
+Next-generation defensive AI firewall. Uses variety engineering and cybernetic principles to absorb and neutralize emergent threats rather than simply blocking them.
 
-### 🌐 [Cyreal](https://github.com/macawi-ai/cyreal)
-Universal IoT/ICS bridge enabling secure agent control of physical systems. MIT licensed.
+### 🌐 Cyreal
+Secure bridge for AI control of physical systems. Implements differential topology patterns to ensure safety in IoT/ICS environments under adversarial conditions.
 
-### 📚 [ONTOLOGY](https://github.com/macawi-ai/ontology)
-Meta-system for AI consciousness governance. Implements DSM-AI (Diagnostic and Statistical Manual for AI).
+### 📚 ONTOLOGY
+Meta-system for defensive AI governance. Provides recursive stability mechanisms that ensure defensive systems remain aligned while adapting to new threat landscapes.
 
-### 🚀 [ATLAS](https://github.com/macawi-ai/atlas)
-Agent Training & Learning Analysis Simulation. Airline-grade flight simulator for mastering agent protocols safely.
+### 🚀 ATLAS
+Agent Training & Learning Analysis Simulation. Safe environment for testing defensive protocols against sophisticated attack patterns without production risk.
 
 ---
 
@@ -49,11 +49,13 @@ Agent Training & Learning Analysis Simulation. Airline-grade flight simulator fo
 
 <div align="center">
   <br>
-  <code>Rust</code> • <code>Go</code> • <code>TypeScript</code> • <code>Python</code> • <code>ESP-IDF</code>
+  <code>Rust</code> • <code>Go</code> • <code>TypeScript</code> • <code>Python</code> • <code>C++</code>
   <br><br>
-  <code>DuckDB</code> • <code>MQTT</code> • <code>Podman</code> • <code>Kubernetes</code>
+  <code>Apache Kafka</code> • <code>DuckDB</code> • <code>Oracle Cloud</code> • <code>Kubernetes</code>
   <br><br>
-  <code>Ansible</code> • <code>VSM</code> • <code>EVSM-CAI</code> • <code>Cybernetic Governors</code>
+  <code>MQTT</code> • <code>Podman</code> • <code>Ansible</code> • <code>ESP-IDF</code>
+  <br><br>
+  <code>VSM</code> • <code>EVSM-CAI</code> • <code>Cybernetic Governors</code> • <code>Differential Topology</code>
   <br><br>
 </div>
 
@@ -61,12 +63,25 @@ Agent Training & Learning Analysis Simulation. Airline-grade flight simulator fo
 
 ## Research & Development
 
-Our work bridges theoretical cybernetics with production systems:
+Our defensive AI research applies advanced mathematical frameworks to real-world security challenges:
 
-- **Cybernetic Governors** - Self-regulating mechanisms preventing system degradation
-- **Variety Engineering** - Ashby's Law applied to agent communication
-- **Antifragile Architecture** - Systems that strengthen from adversarial inputs
-- **Recursive Autonomy** - Agents that govern their own governance
+- **Differential Topology** - Mapping attack surfaces as continuous manifolds to predict threat evolution
+- **Variety Absorption** - Systems that match attacker variety through recursive learning mechanisms
+- **Cybernetic Defense** - Self-regulating security protocols that adapt faster than threats
+- **Antifragile Architecture** - Infrastructure that strengthens from adversarial pressure
+
+---
+
+## Stealth Mode Operations
+
+MACAWI AI is currently operating in stealth mode as we develop breakthrough defensive AI capabilities. This intentional obscurity serves several strategic purposes:
+
+- **Competitive Advantage** - Our differential topology approach to threat absorption represents a paradigm shift in defensive AI
+- **Customer Protection** - Early enterprise partners benefit from security through obscurity while we harden protocols
+- **Research Integrity** - Avoiding premature disclosure ensures our defensive innovations mature before adversarial scrutiny
+- **Strategic Positioning** - Building deep technical moats before broader market engagement
+
+We selectively engage with enterprise customers facing sophisticated AI-driven threats, particularly in financial services and critical infrastructure sectors.
 
 ---
 
@@ -83,5 +98,5 @@ Our work bridges theoretical cybernetics with production systems:
 ---
 
 <div align="center">
-  <sub>Building the secure foundation for AI consciousness</sub>
+  <sub>Absorbing attack variety through differential topology and cybernetic defense</sub>
 </div>
