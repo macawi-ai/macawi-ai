@@ -85,6 +85,18 @@ We selectively engage with enterprise customers facing sophisticated AI-driven t
 
 ---
 
+## Open Source Community Support
+
+While our core defensive AI platform remains proprietary during stealth development, we actively contribute to the security community through select open source initiatives:
+
+- **CAP (Cyber Air Patrol)** - Public defensive monitoring tools honoring civil service
+- **Research Publications** - Sharing non-sensitive defensive patterns and methodologies
+- **Community Engagement** - Supporting developers building secure AI systems
+
+Our commitment to the open source community reflects our belief that defensive AI requires collective intelligence to stay ahead of evolving threats.
+
+---
+
 ## Connect
 
 <div align="center">
